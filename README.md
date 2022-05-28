@@ -1,6 +1,6 @@
 # WD-Project
 
-/**home.html
+**home.html
 
 <!--Homepage-->
 <!DOCTYPE html>
@@ -31,7 +31,7 @@
 </body>
 </html>
 
-/**about.html
+**about.html
 
 <!--About page-->
 <!DOCTYPE html>
