@@ -31,7 +31,7 @@
 </body>
 </html>
 
-**about.html
+**about.html**
 
 <!--About page-->
 <!DOCTYPE html>
@@ -115,7 +115,7 @@
 </body>
 </html>
 
-/**gameplay.html
+**gameplay.html**
 
 <!--gaemplay of the page-->
 <!DOCTYPE html>
@@ -223,7 +223,7 @@
 </body>
 </html>
 
-/**rules.html
+**rules.html**
 
 <!--rules page of the page-->
 <!DOCTYPE html>
@@ -323,7 +323,7 @@
 </html>
 
 
-/**play.html
+**play.html**
 
 <!--play page of the website-->
 <!DOCTYPE html>
@@ -375,7 +375,7 @@
 </body>
 </html>
 
-/**music.html
+**music.html**
                                                                                                                          <!-- music page of the website -->
 <!DOCTYPE html>
 <html>
@@ -429,7 +429,7 @@
 </body>
 </html>                                                                                                      
 
-/**StyleSheet.css
+**StyleSheet.css**
 
 body {
     
@@ -581,7 +581,7 @@ body {
   
 
 
-/**JavaScript2.js
+**JavaScript2.js**
                                 
   /*javascript code for the typescript of the text in play page*/
 var i = 0;
