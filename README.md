@@ -45,7 +45,8 @@
     <!--Navigation bar-->
     <nav>
 
-        <img src="" alt="" />
+        <!--logo-->
+        <img src="https://static.wikia.nocookie.net/disneyfanon/images/8/83/49EF6F10-40D3-4537-8833-819406CB00D2.png/revision/latest?cb=20210520201231" width="40" height="60" />
         <div class="navigation">
             <ul>
                 <li> <a href="home.html"> Home </a> </li>
@@ -131,7 +132,8 @@
     <!--Navigation bar-->
     <nav>
 
-        <img src="" alt="" />
+        <!--logo-->
+        <img src="https://static.wikia.nocookie.net/disneyfanon/images/8/83/49EF6F10-40D3-4537-8833-819406CB00D2.png/revision/latest?cb=20210520201231" width="40" height="60" />
         <div class="navigation">
             <ul>
                 <li> <a href="home.html"> Home </a> </li>
@@ -238,7 +240,8 @@
     <!--Navigation bar-->
     <nav>
 
-        <img src="" alt="" />
+        <!--logo-->
+        <img src="https://static.wikia.nocookie.net/disneyfanon/images/8/83/49EF6F10-40D3-4537-8833-819406CB00D2.png/revision/latest?cb=20210520201231" width="40" height="60" />
         <div class="navigation">
             <ul>
                 <li> <a href="home.html"> Home </a> </li>
@@ -339,7 +342,8 @@
     <!--Navigation bar-->
     <nav>
 
-        <img src="" alt="" />
+        <!--logo-->
+        <img src="https://static.wikia.nocookie.net/disneyfanon/images/8/83/49EF6F10-40D3-4537-8833-819406CB00D2.png/revision/latest?cb=20210520201231" width="40" height="60" />
         <div class="navigation">
             <ul>
                 <li> <a href="home.html"> Home </a> </li>
@@ -390,7 +394,8 @@
     <!--Navigation bar-->
     <nav>
 
-        <img src="" alt="" />
+        <!--logo-->
+        <img src="https://static.wikia.nocookie.net/disneyfanon/images/8/83/49EF6F10-40D3-4537-8833-819406CB00D2.png/revision/latest?cb=20210520201231" width="40" height="60" />
         <div class="navigation">
             <ul>
                 <li> <a href="home.html"> Home </a> </li>
