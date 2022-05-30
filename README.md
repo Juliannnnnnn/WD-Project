@@ -380,7 +380,7 @@
 </html>
 
 **music.html**
-                                                                                                                         <!-- music page of the website -->
+ <!-- music page of the website -->
 <!DOCTYPE html>
 <html>
 <head>
